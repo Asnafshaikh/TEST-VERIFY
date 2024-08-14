@@ -25,19 +25,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Contact__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Textfield__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>ContactNumber__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Rolluptest__c</field>
+                <field>Account__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -289,26 +277,16 @@
         <relatedList>RelatedCampaignList</relatedList>
     </relatedLists>
     <relatedLists>
-        <fields>NAME</fields>
-        <relatedList>Test_configure__c.Contact__c</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>FULL_NAME</fields>
-        <fields>ACCOUNT.NAME</fields>
-        <fields>CONTACT.PHONE1</fields>
-        <relatedList>Contact.Contact__c</relatedList>
-    </relatedLists>
-    <relatedLists>
         <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.ADDRESS1_CITY</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <relatedList>Account.Contact__c</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>OPPORTUNITY.NAME</fields>
         <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.ADDRESS1_CITY</fields>
-        <fields>ACCOUNT.PHONE1</fields>
-        <relatedList>Account.Contact_AL__c</relatedList>
+        <fields>OPPORTUNITY.CLOSE_DATE</fields>
+        <relatedList>Opportunity.Contact__c</relatedList>
     </relatedLists>
     <relatedObjects>AccountId</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>
