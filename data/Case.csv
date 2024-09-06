@@ -1,0 +1,56 @@
+Guid,SuppliedName,SuppliedEmail,SuppliedPhone,SuppliedCompany,Type,Status,Reason,Origin,Subject,Priority,Description,ClosedDate,IsEscalated,Comments
+edbd8aa7-cabb-4e91-8ed6-206c5b7a6ad5,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+62cae410-bfa8-4b46-9e9c-d2b6e7bff5c6,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Phone,#N/A,Medium,#N/A,#N/A,false,#N/A
+ea6b6bf4-39bb-47f7-919b-76ed715467e7,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: size.,High,#N/A,#N/A,false,#N/A
+ecfb401c-b5bb-4ed8-85e8-b026baa31b8d,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+63f7d1c2-f081-43a5-a091-57c7bc794e4f,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+a27f0af4-ab46-4699-8163-73b07714f6f5,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+b0ab5afa-708e-4943-8b33-8b16793e4174,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Web,#N/A,Medium,#N/A,#N/A,false,#N/A
+5c8ff78d-ee25-453d-93fe-8320fd1c9534,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+6f6d46a6-37ff-47a5-9acf-4d407d6dd1bb,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+534c35e5-6a54-4d32-ba85-30eccd3f8c43,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+2bd0046c-ea44-44a7-9bf5-a3c2552c803b,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+1a0326fd-3df4-4a6c-8d2e-347e14b4bb69,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+51accc21-1419-441b-aab2-946833c5eb97,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+41c286d2-f776-4901-adaf-88ad9d889f87,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+d3cc28ab-74b0-40ca-baac-4f9e504207cd,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+1351b3e6-5076-4111-b754-d97fca77ffbf,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+f828de25-aa8f-4a41-b619-78828710bc2c,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+4f291d84-85f7-433f-843e-5f7082736d33,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+f75d4be3-61a2-4883-900a-a65062e11456,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+a70406e5-4686-4364-8235-759238cd4092,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+3743fee0-54f9-4aac-a931-d761157e19de,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3 IS THIS DUPLICATE: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+67396e79-370e-4bfe-8834-fde6e9e0895e,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+011112fb-c64b-4fce-ac47-1e764858632d,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,Case 1,Medium,#N/A,#N/A,false,#N/A
+6ceaccfe-5310-46e3-b9b0-63ec0e236a75,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+bf4f388b-e563-4f18-8a22-85e2372ba981,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+ac67d985-e1bc-48e6-b878-7f45f46d19d5,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+6a633322-159c-41bf-bafd-adb169193e0f,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,#N/A,Medium,#N/A,#N/A,false,#N/A
+8b636988-4e8b-4297-a62d-e06a66de968b,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+165d85bf-1c56-4200-b3f7-023120dd2ab6,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+be9a3622-2a9c-47a1-8297-bcad2816aa93,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+305155db-1745-4046-9b7e-bbddb6da574a,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+76d58ae6-3673-4dd2-973a-fc1341382778,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Web,Case 3,Medium,#N/A,#N/A,false,#N/A
+bd5bb2ba-366e-4c6b-93ac-b7db2296248e,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+99afc0f4-02d3-4b5a-a530-6aebc976fe4e,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+eefcc803-9086-44b3-ab3f-2d3f95b00e55,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Phone,Case 2,Medium,#N/A,#N/A,false,#N/A
+13fe7339-6d1c-4262-a921-5326b99ac166,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+c0e925bf-79ef-40bb-a959-d0c4058d1b9a,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+ed914597-f88b-4219-867e-4aa8d6237b30,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Phone,CaSe 1,Medium,#N/A,#N/A,false,#N/A
+32f4a677-6d80-4d80-af14-03d0b716c9cd,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+12fc9e07-8f8c-4e8f-a562-f0764faf5bb8,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+61bcb0da-b8fb-4422-bfea-5db48d7c800c,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+78f5fd3e-d069-43c7-a392-feece5b159bc,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+44c5ca55-aecc-4db6-97c1-af6f86cff70d,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+7afc57c5-1904-447e-ba0e-7c5a5e29e58d,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3 IS THIS DUPLICATE: Cannot track our order.,Low,#N/A,#N/A,false,#N/A
+9b10e689-949e-4f5b-a6e2-53f1513d0321,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+dc38e129-28c1-470e-be14-a8faff70fe9a,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+4bfb9fa4-2dc0-4450-86f2-02cf7d636d42,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+dd83e052-9965-4c76-8c2e-01e9fc2e85ae,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+9101996b-a3b8-4102-ba56-5b06d0f7bee1,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+3bfb8456-6c59-4376-8d4b-e976862c16f5,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,#N/A,false,#N/A
+4c4dd07f-2ec1-4506-82d0-69878a12f727,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+71d4a33a-316f-4afc-bcd2-28c15271bc5f,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
+d74fa4a4-e016-422a-825a-77835a460716,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,#N/A,false,#N/A
+c2622576-f632-4687-91ae-a60641594a11,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: size.,High,#N/A,#N/A,false,#N/A
+b9783579-dc50-4f98-b20e-21b07992a105,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,#N/A,false,#N/A
