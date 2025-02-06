@@ -3,7 +3,6 @@
     <fullName>checkboxmanaged__c</fullName>
     <defaultValue>false</defaultValue>
     <description>test</description>
-    <externalId>false</externalId>
     <label>checkboxmanaged</label>
     <trackHistory>false</trackHistory>
     <type>Checkbox</type>

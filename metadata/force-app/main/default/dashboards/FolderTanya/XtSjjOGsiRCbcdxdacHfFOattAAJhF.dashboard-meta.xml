@@ -37,6 +37,7 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
+    <owner>tbedikyan@prodly.co.qa5</owner>
     <runningUser>tbedikyan@prodly.co.qa5</runningUser>
     <textColor>#000000</textColor>
     <title>DashboardTanya</title>

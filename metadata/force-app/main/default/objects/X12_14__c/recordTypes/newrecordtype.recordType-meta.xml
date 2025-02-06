@@ -3,4 +3,53 @@
     <fullName>newrecordtype</fullName>
     <active>true</active>
     <label>newrecordtype</label>
+    <picklistValues>
+        <picklist>X12_14multipickcs__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>customobjectcustompicklist__c</picklist>
+        <values>
+            <fullName>maybe so</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>nope</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>customobjectpicklistglobal__c</picklist>
+        <values>
+            <fullName>Evergreen</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>One-time</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renewable</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renewable%2FEvergreen</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>

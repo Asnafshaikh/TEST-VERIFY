@@ -37,11 +37,6 @@
     </folderShares>
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>jaagaard@prodly.co.qa5</sharedTo>
-        <sharedToType>User</sharedToType>
-    </folderShares>
-    <folderShares>
-        <accessLevel>Manage</accessLevel>
         <sharedTo>lzhdanovich@prodly.co.qa5</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
@@ -58,11 +53,6 @@
     <folderShares>
         <accessLevel>Manage</accessLevel>
         <sharedTo>rwheeler@prodly.co.qa5</sharedTo>
-        <sharedToType>User</sharedToType>
-    </folderShares>
-    <folderShares>
-        <accessLevel>Manage</accessLevel>
-        <sharedTo>sbrodin@prodly.co.qa5</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <folderShares>

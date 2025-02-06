@@ -3,7 +3,6 @@
     <fullName>X12_14checkboxcs__c</fullName>
     <defaultValue>false</defaultValue>
     <description>test</description>
-    <externalId>false</externalId>
     <label>12.14checkboxcs</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

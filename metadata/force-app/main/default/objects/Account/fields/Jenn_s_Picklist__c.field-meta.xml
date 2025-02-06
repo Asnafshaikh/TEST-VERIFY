@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Jenn_s_Picklist__c</fullName>
-    <externalId>false</externalId>
     <label>Jenn&apos;s Picklist</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>

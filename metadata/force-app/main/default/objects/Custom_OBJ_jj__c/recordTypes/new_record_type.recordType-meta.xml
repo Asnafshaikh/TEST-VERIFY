@@ -3,4 +3,15 @@
     <fullName>new_record_type</fullName>
     <active>true</active>
     <label>new record type</label>
+    <picklistValues>
+        <picklist>jj_pick__c</picklist>
+        <values>
+            <fullName>no</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
